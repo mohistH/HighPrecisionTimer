@@ -1,0 +1,7 @@
+# 指定本机Qt的安装路径 , 比如： D:/XXX/XXX/XX/QT/5.14/5.14.2/msvc2017_64               
+# linux /usr/lib/qt
+# windows D:/XXX/XXX/XX/QT/5.14/5.14.2/msvc2017_64      
+set(QT_INSTALL_ROOT /usr/lib/qt)
+
+# Qt的版本 ，比如， Qt5-对应的，这里写5， Qt6，这里写6
+set(QT_MAJOR_VERSION 5)
